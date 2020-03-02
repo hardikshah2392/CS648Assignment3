@@ -1,5 +1,5 @@
 {
-  "name": "assignment2",
+  "name": "assignment3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,6 +8,7 @@
     "babel-cli": "^6.26.0",
     "babel-preset-react": "^6.24.1",
     "express": "^4.17.1",
+    "graphql": "^0.13.2",
     "nodemon": "^2.0.2"
   },
   "devDependencies": {},
